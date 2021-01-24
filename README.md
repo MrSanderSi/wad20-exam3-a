@@ -1,4 +1,4 @@
-# WAD 2020 Exam 2: Project A
+# WAD 2020 Resit Exam: Project A
 
 ## Project setup
 ```
